@@ -1,0 +1,34 @@
+LABORATÓRIO DO PROFESSOR EXPONENCIAL — PUBLICAÇÃO INICIAL
+
+UM REPOSITÓRIO PARA OS 6 MÓDULOS. NÃO É NECESSÁRIO UM REPOSITÓRIO POR AULA.
+
+1. Acesse: https://github.com/new
+2. Nome: laboratorio-professor-exponencial
+3. Escolha Public.
+4. Deixe o repositório vazio: NÃO marque a criação automática de README (ele já está neste ZIP).
+5. Clique em Create repository.
+6. Extraia este arquivo ZIP no seu computador. NÃO envie o ZIP inteiro ao GitHub.
+7. Na página do repositório, clique em 'uploading an existing file' ou 'Add file' → 'Upload files'.
+8. Arraste PARA A ÁREA DE UPLOAD O CONTEÚDO EXTRAÍDO: `index.html`, `README.md`, `.nojekyll` (opcional) e as PASTAS `modulo-01` até `modulo-06`.
+   O GitHub aceita arrastar pastas pelo navegador. Se o arquivo oculto .nojekyll não aparecer, pode omiti-lo.
+9. Confira, antes do Commit, se aparece o caminho `modulo-01/aula-01/index.html` e não apenas `index.html`.
+10. Clique em Commit changes.
+11. Vá em Settings → Pages → Build and deployment:
+    - Source: Deploy from a branch
+    - Branch: main
+    - Folder: /(root)
+    - Save
+12. Quando GitHub Pages concluir a publicação, teste os dois links:
+
+PÁGINA INICIAL:
+https://professorexponencial-commits.github.io/laboratorio-professor-exponencial/
+
+MÓDULO 01 / AULA 01:
+https://professorexponencial-commits.github.io/laboratorio-professor-exponencial/modulo-01/aula-01/
+
+CUIDADOS IMPORTANTES:
+- Os URLs acima são endereços esperados. Eles NÃO estarão ativos antes da publicação.
+- Não substitua o `index.html` da raiz pelo HTML de uma aula: a raiz é o catálogo dos seis módulos.
+- O HTML da Aula 01 é um arquivo completo e independente, com suas imagens incorporadas.
+- Quando criarmos a Aula 02, enviaremos `modulo-01/aula-02/index.html` e atualizaremos a página inicial.
+- Os laboratórios hospedados em um repositório público são acessíveis por quem tiver o link, mesmo que a Hotmart só exiba o botão aos matriculados.
